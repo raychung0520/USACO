@@ -1,6 +1,5 @@
 package _1_2;
-import java.util.*;
-import java.io.*;
+
 public class ride {
 
 	public static void main(String[] args) {
